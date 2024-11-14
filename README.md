@@ -44,3 +44,19 @@ To figure it out...
 
 - [@LincolnKermit](https://www.github.com/lincolnkermit)
 
+## Documentation
+
+Sound engine service for the soundboard app
+```
+audio-process-service-sb/*
+```
+
+Audio file uploaded by the user
+```
+audio-static-file/*
+```
+
+Config directory
+```
+audio-process-service-sb/config/*
+```
